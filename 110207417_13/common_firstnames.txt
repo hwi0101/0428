@@ -1,0 +1,199 @@
+1 Amelia 5,327 (number) No change (change in rank since 2013)
+
+2 Olivia 4,724 No change
+
+3 Isla 4,012 Up 2
+
+4 Emily 3,991 Down 1
+
+5 Poppy 3,273 Up 2
+
+6 Ava 3,171 Down 2
+
+7 Isabella 3,022 Up 1
+
+8 Jessica 2,995 Down 2
+
+9 Lily 2,965 Up 3
+
+10 Sophie 2,905 Down 1
+
+11 Grace 2,785 Up 2
+
+12 Sophia 2,752 Up 3
+
+13 Mia 2,727 Down 3
+
+14 Evie 2,664 No change
+
+15 Ruby 2,595 Down 4
+
+16 Ella 2,465 No change
+
+17 Scarlett 2,359 No change
+
+18 Isabelle 2,241 Up 1
+
+19 Chloe 2,215 Down 1
+
+20 Sienna 2,174 Up 2
+
+21 Freya 2,164 Down 1
+
+22 Phoebe 2,099 Up 2
+
+23 Charlotte 2,018 Down 2
+
+24 Daisy 1,957 Down 1
+
+25 Alice 1,783 Up 2
+
+26 Florence 1,781 Up 3
+
+27 Eva 1,725 Down 1
+
+28 Sofia 1,692 Up 2
+
+29 Millie 1,685 Down 4
+
+30 Lucy 1,664 Down 2
+
+31 Evelyn 1,506 Up 14
+
+32 Elsie 1,497 Up 15
+
+33 Rosie 1,475 Up 5
+
+34 Imogen 1,463 No change
+
+35 Lola 1,441 Down 3
+
+36 Matilda 1,440 No change
+
+37 Elizabeth 1,398 Up 2
+
+38 Layla 1,391 Down 7
+
+39 Holly 1,362 Down 6
+
+40 Lilly 1,352 Down 3
+
+41 Molly 1,349 Down 6
+
+42 Erin 1,343 Down 2
+
+43 Ellie 1,308 No change
+
+44 Maisie 1,221 Down 3
+
+45 Maya 1,200 Up 6
+
+46 Abigail 1,181 No change
+
+47 Eliza 1,165 Up 12
+
+48 Georgia 1,163 Up 12
+
+49 Jasmine 1,155 Up 1
+
+50 Esme 1,151 Up 8
+
+51 Willow 1,142 Up 3
+
+52 Bella 1,141 Up 4
+
+53 Annabelle 1,108 Up 10
+
+54 Ivy 1,103 Up 12
+
+55 Amber 1,089 Up 10
+
+56 Emilia 1,082 Up 8
+
+57 Emma 1,071 Down 2
+
+58 Summer 1,067 Down 10
+
+59 Hannah 1,061 Down 15
+
+60 Eleanor 1,049 Down 3
+
+61 Harriet 1,016 No change
+
+62 Rose 990 Up 6
+
+63 Amelie 988 Down 11
+
+64 Lexi 972 Down 22
+
+65 Megan 879 Down 16
+
+66 Gracie 871 Down 4
+
+67 Zara 838 Up 3
+
+68 Lacey 829 Down 15
+
+69 Martha 807 Up 4
+
+70 Anna 804 Down 1
+
+71 Violet 754 Up 7
+
+72 Darcey 727 Up 12
+
+73 Maria 707 Up 10
+
+74 Maryam 705 Up 6
+
+75 Brooke 703 Down 8
+
+76 Aisha 702 Up 18
+
+77 Katie 701 Up 2
+
+78 Leah 683 Down 7
+
+79 Thea 678 Up 42 *new entry
+
+80 Darcie 677 Up 23 *new entry
+
+81 Hollie 673 Down 6
+
+82 Amy 668 Down 6
+
+83 Mollie 663 Down 12
+
+84 Heidi 662 Up 15
+
+85 Lottie 662 Up 20 *new entry
+
+86 Bethany 648 Down 9
+
+87 Francesca 646 Down 6
+
+88 Faith 642 Down 14
+
+89 Harper 623 Up 71 *new entry
+
+90 Nancy 615 Up 21 *new entry
+
+91 Beatrice 610 Up 4
+
+92 Isabel 608 Down 7
+
+93 Darcy 606 No change
+
+94 Lydia 602 Up 6
+
+95 Sarah 601 Up 1
+
+96 Sara 596 Up 4
+
+97 Julia 593 Down 15
+
+98 Victoria 584 Down 10
+
+99 Zoe 580 Down 2
+
+100 Robyn 577 Up 19 *new entry
